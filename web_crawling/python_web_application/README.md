@@ -12,7 +12,7 @@
 ## 목차
 * Section1:: 학습 과정 소개 및 개발 환경 설정(window, mac 공통)
 
-* [Section2](https://github.com/ryan-chris/inflearn_python/tree/master/section2):: 파이썬 기초 스크랩핑
+* [Section2](https://github.com/ryan-chris/inflearn_study/tree/master/web_crawling/python_web_application/section2):: 파이썬 기초 스크랩핑
 
 * Section3:: 파이썬 고급 스크랩핑
 
